@@ -9,7 +9,6 @@ cutText ["","BLACK FADED", 999];
 
 ace_player switchMove "amovpercmstpslowwrfldnon";
 
-
 [{
 [ 
 parseText "<t font='PuristaBold' size='7' color='#8b0000'>O</t><t font='PuristaBold' size='7' color='#ffffff'>peration </t><t font='PuristaBold' size='7' color='#8b0000'>L</t><t font='PuristaBold' size='7' color='#ffffff'>ions </t><t font='PuristaBold' size='7' color='#8b0000'>K</t><t font='PuristaBold' size='7' color='#ffffff'>iss </t><t font='PuristaBold' size='7' color='#8b0000'>4</t>", 
