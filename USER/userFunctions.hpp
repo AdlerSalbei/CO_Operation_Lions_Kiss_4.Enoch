@@ -19,7 +19,8 @@ class GRAD_USER {
         class pickUpItem {};
         class seatPlayers {};
         class setTimeAndWeather {};
-        class spawnMortarShell {};
+        class teleportPlayers {};
+        class teleportToObjectiv {};
         class unhidePickUp {};
     };
 };
